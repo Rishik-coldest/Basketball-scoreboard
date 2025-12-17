@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background: navy;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+button {
+    color: white;
+    background-color: darkblue;
+    border: 1px solid white;
+    border-radius: 8px;
+    padding: 10px 10px;
+}
+
+h2 {
+    background: black;
+    padding: 20px 30px;
+    color: red;
+}
